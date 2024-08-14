@@ -1,0 +1,12 @@
+.aside {
+  height: 100vh;
+}
+
+.content {
+  height: 100vh;
+}
+.button-group {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
